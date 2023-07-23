@@ -9,7 +9,7 @@
   
 ##  🙋‍♂️ About me:
 Hello! I'm Nikhil, a Final year Information Technology student, a Web Developer who loves to explore and develop new website.
-I usually work on *DSA, **Web Development, **Java* and *C++*.
+I usually work on **DSA**, **Web Development**, **Java**.
 
 ## 🔗 Connect with me:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
