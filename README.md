@@ -32,7 +32,6 @@ Domain | Tech Stacks
 -------- | :-------:
 *Web* | <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
 *Blockchain* | <img src="https://cdn-icons-png.flaticon.com/512/4125/4125334.png" width="40px">
-*Languages* | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/JAVA_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
 *Databases* | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px">
 
 
