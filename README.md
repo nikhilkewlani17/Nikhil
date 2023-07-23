@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Software Engineer from India.</h3>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+NIKHIL+KEWLANI;I'm+a+Software+Developer.;%E2%9D%A4%EF%B8%8F+%7C+Web+Developer+%7C+Data+Scientist+%7C+Java+Programmer;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+NIKHIL+KEWLANI;I'm+a+Software+Developer.;%E2%9D%A4%EF%B8%8F+%7C+Web+Developer+%7C+%7C+Java+Programmer;)](https://git.io/typing-svg)
 </div>
   
   
@@ -24,7 +24,7 @@ I usually work on **DSA**, **Web Development**, **Java**.
 
 - Projects: [github.com/nikhilkewlani17](https://github.com/nikhilkewlani17)
 - Linkedin: [linkedin.com/nikhil-kewlani-624738238](https://linkedin.com/in/nikhil-kewlani-624738238)
-- Resume: [resume/Nikhil Kewlani]
+- Resume: [resume/Nikhil Kewlani](https://drive.google.com/file/d/1VK3xTZng_a_TIzB7QeF2lGYvgVSrD0yp/view?usp=drive_link)
 
 
 ## 🚀 Skills:
